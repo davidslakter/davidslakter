@@ -8,9 +8,14 @@
   
 - 🔭 I’m currently working on **Ad Experiences team @ Walmart** ([Walmart Connect](https://www.walmartconnect.com)), connecting advertisers to walmart customers with sponsored ad placements.
 - 📽️🎬 I pioneered the first Video Framework at Walmart, to show high performant videos throughout the Walmart app and Sams Club.
-- 🧑🏻‍💻 I wrote a Machine learning program in college, that watched security cameras and would alert businesses of crimes and notify the police 🚓
-- 🎓🗽Graduated from NYU with a major in Computer Science and Business Studies Minor 
+- 🧑🏻‍💻 I wrote a [Machine learning program](https://github.com/davidslakter/irisAPI) in college, that watched security cameras and would alert businesses of crimes and notify the police 🚓
+- 🎓🗽Graduated from NYU with a major in Computer Science and Business Studies Minor
 
+## Projects
+- [***Usopp(2024)***](https://github.com/nihalgunu/OnePieceLabs-OG-CAMP-Hackathon) Hackathon project. Uses Federated learning to gather data to train a decentralized model on the blockchain.
+- ***Lumenar (2024)*** an AI tool that lets you call for information using a screenshot or copying text along with providing a pop up text box.
+(Similar to Open AIs Desktop app but 
+- [***Swap (2017)***](https://github.com/davidslakter/SwapIOS) An iOS App that allows you share all your social medias from a single QR Code
 
 
 ## ⚙️ Languages I use:
