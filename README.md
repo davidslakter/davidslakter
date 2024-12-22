@@ -7,8 +7,8 @@
 ### I am David Slakter, an iOS developer interested in building with emerging technologies.
 #### Here are some of the things I've worked on:
 
-- 🔭 I’m currently working on the **Ad Experiences team @ Walmart** ([Walmart Connect](https://www.walmartconnect.com)), connecting advertisers to Walmart customers with sponsored ad placements.
-- 💡Im interested In AI, VR, And Web3 projects
+- 🔭 I’m currently working on the **Ad Experiences team @ Walmart** ([Walmart Connect](https://www.walmartconnect.com)), connecting advertisers to Walmart customers with unique ad placements.
+- 💡 I'm interested In AI, VR, And Web3 projects
 - 📽️🎬 I pioneered the first Video Framework at Walmart to show high-performance videos throughout the Walmart app and Sam's Club.
 - 🧑🏻‍💻 I wrote a [machine learning program](https://github.com/davidslakter/irisAPI) in college that monitored security cameras and would alert businesses of crimes and notify the police 🚓.
 - 🎓🗽 Graduated from NYU with a major in Computer Science and a minor in Business Studies.
