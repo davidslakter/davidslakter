@@ -4,7 +4,7 @@
 
 # 👋 Hey There
 
-### I am David Slakter, an iOS developer interested in building with emerging technologies.
+### I am David Slakter, a senior developer interested in building with emerging technologies.
 #### Here are some of the things I've worked on:
 
 - 🔭 I’m currently working on the **AdTech engineering team @ Walmart** ([Walmart Connect](https://www.walmartconnect.com)), working on AI agents.
