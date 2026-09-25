@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on the **AdTech engineering team @ Walmart** ([Walmart Connect](https://www.walmartconnect.com)), working on AI agents.
 - 💡 I'm interested In AI, VR, Robotics And Web3 projects
-- 📽️🎬 I pioneered the Video Framework at Walmart to show high-performance videos throughout the Walmart app and Sam's Club.
+- 📽️🎬 I pioneered the Video Framework at Walmart to show high-performance videos throughout the Walmart app and Sam's Club. Bringing Video Ads to Walmart and unlocking 100s of millions in annual Ad revenue
 - 🧑🏻‍💻 I wrote [xIris](https://github.com/davidslakter/irisAPI) in college to monitor security cameras and alert businesses of crimes by notifying the police 🚓.
 - 🎓🗽 Graduated from NYU with a major in Computer Science and a minor in Business Studies.
 
